@@ -1,4 +1,4 @@
-module github.com/souzarodrigo61/web
+module go-web-one-piece
 
 go 1.16
 
